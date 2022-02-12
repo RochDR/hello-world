@@ -1,3 +1,7 @@
-# hello-world
-hello world repository to print hello world
-hey I'm Roch aerospace engineering student and bonanza king
+# READ-ME
+Hi I'm Roch Rahir
+3rd Year Aerospace engineering student from Germany
+Study Avionics
+Autonomous systems engineer at Project Hex
+
+
